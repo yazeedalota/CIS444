@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+ <head>
+  <title>Cougar Life Style</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="foodstyle.css">
+  <script src="foodscript.js"></script>
+ </head>
+
+ <body>
+
+  <h1 id="header">Cougar Life Style</h1>  
+  <h2 id="head">Cougars Dinning Options</h2>  
+  
+<br>  
+
+ <div class="starbucks">
+  <center><img src="starbucks.jpeg" alt="Starbucks" width="500" height="400"></center>
+  <p id="header">Food</p>
+  <p><strong>Starbucks</strong></p>
+ </div>
+ 
+
+ <div class="panda">
+  <center><img src="pandaex.jpg" alt="Panda Express" width="500" height="400"></center>
+  <p><strong>Panda Express</strong></p>
+ </div>
+
+ <div class="campus">
+  <center><img src="campuscoffee.jpg" alt="Campus Coffee" width="500" height="400"></center>
+  <p><strong>Campus Coffee</strong></p>
+ </div>
+
+ <div class="subconnect">
+  <center><img src="subconnect.jpg" alt="SubConnection" width="500" height="400"></center>
+  <p><strong>SubConnection</strong></p>
+ </div>
+
+
+ <div class="wow">
+  <center><img src="wowgrill.jpg" alt="WoW American Grill" width="500" height="400"></center>
+  <p><strong>WoW American Grill</strong></p>
+ </div>
+
+
+ <div class="market">
+  <center><img src="csusmarket.jpg" alt="Market at the Union" width="500" height="400"></center>
+  <p><strong>Market at the Union</strong></p>
+ </div>
+
+ <div class="mrtaco">
+  <center><img src="mrtaco.jpg" alt="Mr.Taco" width="500" height="400"></center>
+  <p><strong>Mr. Taco</strong></p>
+ </div>
+
+
+ <div class="players">
+  <center><img src="Players.jpg" alt="Players Sport Bar and Grill" width="500" height="400"></center>
+  <p><strong>Players Sport Bar & Grill</strong></p>
+ </div>
+
+
+
+
+</body>
+
+</html>

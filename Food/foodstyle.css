@@ -1,0 +1,46 @@
+body
+{
+
+font-family: Arial;
+background-color: white;
+}
+
+
+
+#head, .starbucks, .subconnect, .players, .wow, .market, .panda, .campus, .mrtaco
+{
+
+margin: auto;
+width: 40%;
+border: 0.5px;
+border-style: solid;
+letter-spacing: 1px
+border-collapse: collapse;
+font-size: 30px;
+padding: 40px;
+background-color: #F5F5F5;	
+}
+
+
+#head
+{
+
+text-align: center;
+
+}
+
+#header
+{
+
+text-align: left;
+border: 0.5px;
+border-style: solid;
+letter-spacing: 2px
+border-collapse: collapse;
+font-size: 50px;
+padding: 10px;
+background-color: #F5F5F5;
+
+
+
+}
