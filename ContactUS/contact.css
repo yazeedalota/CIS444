@@ -1,0 +1,75 @@
+/* Set background color for body*/
+body{
+     background-color: blue;
+}
+/*========================================================================*/
+/* Container that holds all content */
+.restOfPage{
+     position: relative;
+     padding: 0 0 0 55px;
+     min-width: 1024px;
+background-color: blue;
+}
+/*========================================================================*/
+
+/* Header for Contact Us */
+.header{
+     width: 1024px;
+     height: 100px;
+     margin-top: 20px;
+}
+
+#head{
+margin: auto;
+width: 100%;
+border: 5px;
+border-style: solid;
+border-color: black;
+letter-spacing: 1px
+border-collapse: collapse;
+font-size: 30px;
+padding: 40px;
+color: white;
+background-color: blue;
+font-family: Arial;
+}
+
+#contactUsTitle{
+margin: auto;
+width: 90%;
+border: 1px;
+border-style: solid;
+border-color: black;
+letter-spacing: 1px
+border-collapse: collapse;
+font-size: 30px;
+padding: 40px;
+color: black;
+background-color: lightgrey;
+font-family: Arial;
+}
+
+/*========================================================================*/
+/* Body of Contact us */
+.content{
+     width: 1024px;
+     height: 1000px;
+     margin-top: 50px;
+     background-color: lightgrey;
+     font-family: Arial;
+     border-style: solid;
+     border-color: black;
+}
+#companyInfo{
+     padding-left: 90px;
+     font-size: 30px;
+}
+
+/*========================================================================*/
+/* Footer if we want  */
+.footer{
+     width: 1024px;
+     height: 50px;
+     margin-top: 10px;
+}
+/*================    ***     END     ***      ==========================*/
