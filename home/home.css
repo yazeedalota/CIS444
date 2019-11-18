@@ -1,0 +1,71 @@
+<!-----CSS------>
+
+.header {
+     width: 1024px;
+     height: 125px;
+     margin-top: 20px;
+}
+
+.head2 {
+     width: 1920px;
+     height: 125px;
+     margin-top: 20px;
+}
+
+.welcome {
+  font-family: Arial;
+  width: 100vw;
+  height: 100vh;
+  background:linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url('https://content.presspage.com/uploads/1093/1920_csusm014.jpg?10000');
+  background-size: cover;
+  background-attachment: cover;
+  background-repeat: repeat;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+p1 {
+  font-size: 60px;
+  display: block;
+  padding: 10px;
+  color: white;
+}
+
+p2 {
+  font-size: 30px;
+  display: block;
+  padding: 10px;
+  color: white;
+}
+
+li {
+  display: inline;
+  float: left;
+}
+
+a {
+  font-size: 20px;
+  display: block;
+  padding: 5px;
+  background-color: blue;
+  color: white;
+}
+
+#head {
+margin: auto;
+width: 100%;
+border: 5px;
+border-style: solid;
+border-color: black;
+letter-spacing: 1px
+border-collapse: collapse;
+font-size: 30px;
+padding: 40px;
+color: white;
+background-color: blue;
+font-family: Arial;
+}
+
