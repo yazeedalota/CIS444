@@ -1,0 +1,105 @@
+body
+{
+
+font-family: Arial;
+background-color: blue;
+}
+
+
+
+#head, .starbucks, .subconnect, .players, .wow, .market, .panda, .campus, .mrtaco
+{
+
+margin: auto;
+width: 40%;
+border: 0.5px;
+border-style: solid;
+letter-spacing: 1px
+border-collapse: collapse;
+font-size: 30px;
+padding: 40px;
+background-color: lightgrey;	
+}
+
+#comment
+{
+
+margin: auto;
+width: 40%;
+letter-spacing: 1px
+font-size: 15px;
+padding: 40px;
+background-color: lightgrey;
+}
+
+
+
+#head
+{
+
+text-align: center;
+
+}
+
+#header
+{
+
+text-align: left;
+border: 0.5px;
+border-style: solid;
+letter-spacing: 2px
+border-collapse: collapse;
+font-size: 50px;
+padding: 10px;
+background-color: #F5F5F5;
+
+
+
+}
+
+
+.Input{
+ font: 20px Verdana;
+ border: 1px solid blue;
+ width: 300px;
+}
+
+.Submit{
+ font: 20px Verdana;
+ border: 1px solid blue;
+ width: 300px;
+}
+
+
+
+<!-----CSS------>
+.header{
+     width: 1024px;
+     height: 125px;
+     margin-top: 20px;
+}
+li {
+  display: inline;
+  float: left;
+}
+a {
+  font-size: 20px;
+  display: block;
+  padding: 5px;
+  background-color: blue;
+  color: white;
+}
+#head{
+margin: auto;
+width: 100%;
+border: 5px;
+border-style: solid;
+border-color: black;
+letter-spacing: 1px
+border-collapse: collapse;
+font-size: 30px;
+padding: 40px;
+color: white;
+background-color: blue;
+font-family: Arial;
+}
