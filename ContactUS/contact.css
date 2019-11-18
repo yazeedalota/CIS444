@@ -6,7 +6,7 @@ body{
 /* Container that holds all content */
 .restOfPage{
      position: relative;
-     padding: 0 0 0 55px;
+     padding: 0 0 0 300px;
      min-width: 1024px;
 background-color: blue;
 }
@@ -81,6 +81,31 @@ a.two {
   background-color: lightgrey;
   color: blue;
 }
+
+/*========================================================================*/
+/*general page*/
+	
+	.form textarea{  
+		display: inline-block;
+		text-align: left;
+		float: center;
+		background-color: lightgrey;
+	}
+
+		.form {
+		margin: 0 auto;
+		width: 600px;
+	}
+	.form label{
+		display: inline-block;
+		text-align: right;
+		float: left;
+	}
+	.form input{  
+		display: inline-block;
+		text-align: left;
+		float: left;
+	}
 
 
 /*========================================================================*/
