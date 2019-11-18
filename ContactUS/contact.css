@@ -88,7 +88,7 @@ a.two {
 	.form textarea{  
 		display: inline-block;
 		text-align: left;
-		
+		float: center;
 		background-color: lightgrey;
 	}
 
