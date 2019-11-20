@@ -1,0 +1,23 @@
+.form {
+    width: 60%;
+}
+
+input[type="text"] {
+    width: 99%;
+    height: 1.5em;
+    padding-bottom: 5px;
+    margin-bottom: 3px;
+}
+
+input[type="submit"] {
+    margin-top: 5%;
+}
+
+table {
+    margin-top: 5%;
+}
+
+th, td {
+    text-align: center;
+    border: 1px solid black;
+}

@@ -1,0 +1,3 @@
+[ERROR - 23000] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin' for key 'username'
+test
+[ERROR - 23000] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin' for key 'username'

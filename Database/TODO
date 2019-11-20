@@ -1,0 +1,4 @@
+- Better 'error' message for register/login like 'Username already exists'
+- Possibility to order posts and user list by date/alphabetical...
+- Get user list of those who like a post
+- Get comments of the post and the likes associated to the comment
