@@ -1,0 +1,52 @@
+body {
+  background-color: blue;
+  font-family: Arial;
+}
+
+.starbucks, .subconnect, .players, .wow, .market, .panda, .campus, .mrtaco {
+  background-color: lightgrey;
+  border: 0.5px;
+  border-collapse: collapse;
+  border-style: solid;
+  font-size: 30px;
+  letter-spacing: 1px;
+  margin: auto;
+  padding: 40px;
+  width: 40%;
+}
+
+.comment {
+  background-color: lightgrey;
+  font-size: 15px;
+  letter-spacing: 1px;
+  margin: auto;
+  padding: 40px;
+  width: 40%;
+}
+
+.head {
+  text-align: center;
+}
+
+.header {
+  background-color: #F5F5F5;
+  border: 0.5px;
+  border-collapse: collapse;
+  border-style: solid;
+  font-size: 50px;
+  letter-spacing: 2px;
+  padding: 10px;
+  text-align: left;
+}
+
+.Input {
+  border: 1px solid blue;
+  font: 20px Verdana;
+  width: 300px;
+}
+
+.Submit {
+  border: 1px solid blue;
+  font: 20px Verdana;
+  width: 300px;
+}

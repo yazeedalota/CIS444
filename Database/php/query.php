@@ -9,8 +9,8 @@ ini_set('display_errors', 1);
 
 define('LOG_FILE', '../logs/sql_error.log');
 
-define('USER', 'root');
-define('PASS', 'cis444groupE');
+define('USER', 'team_e');
+define('PASS', 'qo0uCaghBtri');
 
 
 function query($query, $params) {
@@ -20,7 +20,7 @@ function query($query, $params) {
     // establish database connection
     try {
         // create a new PDO object with host, username and password to access mysql server
-        $db = new PDO('mysql:host=localhost;dbname=web', USER, PASS); 
+        $db = new PDO('mysql:host=localhost;dbname=team_e', USER, PASS); 
         // tells PDO to disable emulating prepared statements and use actual prepared statements
         $db->setAttribute(PDO::ATTR_EMULATE_PREPARES, false); 
         // enable error mode and exception error mode

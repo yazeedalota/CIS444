@@ -1,0 +1,12 @@
+.header {
+  width: 1024px;
+  height: 125px;
+  margin-top: 20px;
+}
+
+body {
+  font-family: Arial;
+  background-color: white;
+  background-image: url('image.jpg');
+  background-repeat: no-repeat;
+}

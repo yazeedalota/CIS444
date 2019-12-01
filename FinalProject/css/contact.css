@@ -1,0 +1,92 @@
+/* Set background color for body*/
+
+body {
+     background-color: blue;
+}
+
+/*========================================================================*/
+
+/* Header for Contact Us */
+
+.header {
+     height: 125px;
+     margin-top: 20px;
+     width: 1024px;
+}
+
+.contactUsTitle {
+     background-color: lightgrey;
+     border-collapse: collapse;
+     border-color: black;
+     border-style: solid;
+     border-width: 1px;
+     color: black;
+     font-family: Arial;
+     font-size: 30px;
+     letter-spacing: 1px;
+     margin-left: 10px;
+     margin-right: 10px;
+     padding: 40px;
+}
+
+/*========================================================================*/
+
+/* Body of Contact us */
+
+.content {
+     background-color: lightgrey;
+     border-color: black;
+     border-style: solid;
+     font-family: Arial;
+     height: 1500px;
+     margin-top: 50px;
+     width: 1080px;
+}
+
+.companyInfo {
+     font-size: 30px;
+     padding-left: 90px;
+}
+
+.two {
+     background-color: lightgrey;
+     color: blue;
+     font-size: 20px;
+}
+
+/*========================================================================*/
+
+/*general page*/
+
+.form textarea {
+     background-color: lightgrey;
+     display: inline-block;
+     text-align: left;
+}
+
+.form {
+     margin: 0 auto;
+     width: 600px;
+}
+
+.form label {
+     display: inline-block;
+     text-align: right;
+}
+
+.form input {
+     display: inline-block;
+     text-align: left;
+}
+
+/*========================================================================*/
+
+/* Footer if we want  */
+
+.footer {
+     height: 50px;
+     margin-top: 10px;
+     width: 1024px;
+}
+
+/*================    ***     END     ***      ==========================*/

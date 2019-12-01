@@ -1,0 +1,28 @@
+body {
+    font-family: Arial;
+    background-color: white;
+}
+
+.form textarea {
+    display: inline-block;
+    text-align: left;
+    float: center;
+    background-color: lightgrey;
+}
+
+.form {
+    margin: 0 auto;
+    width: 600px;
+}
+
+.form label {
+    display: inline-block;
+    text-align: right;
+    float: left;
+}
+
+.form input {
+    display: inline-block;
+    text-align: left;
+    float: left;
+}
