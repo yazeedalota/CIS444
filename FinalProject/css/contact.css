@@ -1,92 +1,123 @@
 /* Set background color for body*/
-
-body {
+body{
      background-color: blue;
 }
-
+/*========================================================================*/
+/* Container that holds all content */
+.restOfPage{
+     position: relative;
+     padding: 0 0 0 300px;
+     min-width: 1024px;
+background-color: blue;
+}
 /*========================================================================*/
 
 /* Header for Contact Us */
-
-.header {
+.header{
+     width: 1024px;
      height: 125px;
      margin-top: 20px;
-     width: 1024px;
+}
+li {
+  display: inline;
+  float: left;
+}
+a {
+  font-size: 20px;
+  display: block;
+  padding: 5px;
+  background-color: blue;
+  color: white;
 }
 
-.contactUsTitle {
-     background-color: lightgrey;
-     border-collapse: collapse;
-     border-color: black;
-     border-style: solid;
-     border-width: 1px;
-     color: black;
-     font-family: Arial;
-     font-size: 30px;
-     letter-spacing: 1px;
-     margin-left: 10px;
-     margin-right: 10px;
-     padding: 40px;
+#head{
+margin: auto;
+width: 100%;
+border: 5px;
+border-style: solid;
+border-color: black;
+letter-spacing: 1px
+border-collapse: collapse;
+font-size: 30px;
+padding: 40px;
+color: white;
+background-color: blue;
+font-family: Arial;
+}
+
+
+#contactUsTitle{
+margin: auto;
+width: 90%;
+border: 1px;
+border-style: solid;
+border-color: black;
+letter-spacing: 1px
+border-collapse: collapse;
+font-size: 30px;
+padding: 40px;
+color: black;
+background-color: lightgrey;
+font-family: Arial;
 }
 
 /*========================================================================*/
-
 /* Body of Contact us */
-
-.content {
-     background-color: lightgrey;
-     border-color: black;
-     border-style: solid;
-     font-family: Arial;
+.content{
+     width: 1080px;
      height: 1500px;
      margin-top: 50px;
-     width: 1080px;
+     background-color: lightgrey;
+     font-family: Arial;
+     border-style: solid;
+     border-color: black;
 }
-
-.companyInfo {
-     font-size: 30px;
+#companyInfo{
      padding-left: 90px;
+     font-size: 30px;
 }
-
-.two {
-     background-color: lightgrey;
-     color: blue;
-     font-size: 20px;
+a.two {
+  font-size: 20px;
+  background-color: lightgrey;
+  color: blue;
 }
 
 /*========================================================================*/
-
 /*general page*/
+	
+	.form textarea{  
+		display: inline-block;
+		text-align: left;
+		float: center;
+		background-color: lightgrey;
+	}
+	
+	.form table{
+		background-color: lightgrey;	
+	
+	}
+	.form {
+		margin: 0 auto;
+		width: 600px;
 
-.form textarea {
-     background-color: lightgrey;
-     display: inline-block;
-     text-align: left;
-}
+	}
+	.form label{
+		display: inline-block;
+		text-align: right;
+		float: left;
+	}
+	.form input{  
+		display: inline-block;
+		text-align: left;
+		float: left;
+	}
 
-.form {
-     margin: 0 auto;
-     width: 600px;
-}
-
-.form label {
-     display: inline-block;
-     text-align: right;
-}
-
-.form input {
-     display: inline-block;
-     text-align: left;
-}
 
 /*========================================================================*/
-
 /* Footer if we want  */
-
-.footer {
+.footer{
+     width: 1024px;
      height: 50px;
      margin-top: 10px;
-     width: 1024px;
 }
-
 /*================    ***     END     ***      ==========================*/
