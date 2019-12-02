@@ -1,4 +1,4 @@
-﻿<!---------
+<!---------
 Yazeed Alotaibi
 Dr. Wu
 CIS444
@@ -26,8 +26,6 @@ Team E
     <div class="starbucks">
         <center><img src="/team_e/assets/starbucks.jpeg" alt="Starbucks" width="500" height="400"></center>
         <p><strong>Starbucks</strong></p>
-
-
     </div>
 
     <!---Comment Section--->
